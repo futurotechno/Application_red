@@ -1,0 +1,6 @@
+NSPhotoLibraryUsageDescription = "Synchroniser vos Photos";
+PermissionGroupNotification = "Activer les notification";
+NSMicrophoneUsageDescription = "Synchroniser votre microphone";
+NSLocationWhenInUseUsageDescription = "Synchroniser votre localisation";
+NSContactsUsageDescription = "Synchroniser vos contactes";
+NSFaceIDUsageDescription = "Synchroniser votre Face Id";

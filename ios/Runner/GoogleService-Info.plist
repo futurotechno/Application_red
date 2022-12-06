@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>560182217096-r8fv50nq49s6a5ipdu902frmbt9a0sf8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.560182217096-r8fv50nq49s6a5ipdu902frmbt9a0sf8</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>560182217096-v2reipu4d3mlaar1j1etumcuiv30il7u.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCeFfMhrFEas7onK2C-yLX-89EwEG3bP2I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>560182217096</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Rouge.Steakhouse</string>
+	<key>PROJECT_ID</key>
+	<string>rougesteakhouse-4cad8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rougesteakhouse-4cad8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:560182217096:ios:3fe7bf807d64b753f4d23d</string>
+</dict>
+</plist>

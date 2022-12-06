@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "560182217096",
+    "project_id": "rougesteakhouse-4cad8",
+    "storage_bucket": "rougesteakhouse-4cad8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560182217096:android:393aee4ee7d35448f4d23d",
+        "android_client_info": {
+          "package_name": "Rouge.Steakhouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560182217096-v2reipu4d3mlaar1j1etumcuiv30il7u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Rouge.Steakhouse",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "560182217096-sjrcgffpkvc8vn0et6d08mg7se09d82f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSy6X8LE9MkqauElhhTmeGq7roiUBfqDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560182217096-sjrcgffpkvc8vn0et6d08mg7se09d82f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "560182217096-r8fv50nq49s6a5ipdu902frmbt9a0sf8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Rouge.Steakhouse"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
